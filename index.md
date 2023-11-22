@@ -1,121 +1,29 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+# Short CV
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+# Publications
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## 2023
 
-### Header 3
+- R. May, C. Biermann, A. Kenner, J. Krüger & T. Leich. A Product-Line-Engineering Framework for Secure Enterprise-Resource-Planning Systems. International Conference on ENTERprise Information Systems (CENTERIS), 2023. Angenommen.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- R. May, T. Niemand, P. Scholz & T. Leich. Design Patterns for Monitoring and Prediction Machine Learning Systems: Systematic Literature Review and Cluster Analysis. International Conference on Software Technologies (ICSOFT), 2023. S. 209–216.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- R. May, J. Gautam, C. Sharma, C. Biermann & T. Leich. A Systematic Mapping Study on Security in Configurable Safety-Critical Systems Based on Product-Line Concepts. International Conference on Software Technologies (ICSOFT), 2023. S. 217–216.
 
-#### Header 4
+## 2022
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- R. May. Security and Configurable Storage Systems in Industry 4.0 Environments: A Systematic Literature Study. Nachwuchswissenschaftler*innenkonferenz (NWK), 2022. S. 151–156.
 
-##### Header 5
+- R. May, C. Biermann, J. Krüger, G. Saake & T. Leich. A Systematic Mapping Study of Security Concepts for Configurable Data Storages. International Systems and Software Product Line Conference (SPLC), ACM. 2022. S. 108–119.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+- R. May & K. Denecke. Security, Privacy, and Healthcare-Related Conversational Agents: A Scoping Review. Informatics for Health and Social Care, 47(2). 2022. S. 149–2010.
 
-###### Header 6
+## 2021
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+- A. Kenner, R. May, J. Krüger, G. Saake & T. Leich. Safety, Security, and Configurable Software Systems: A Systematic Mapping Study. International Systems and Software Product Line Conference (SPLC), ACM. 2021. S. 148–159.
 
-### There's a horizontal rule below this.
+## 2020
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- G. Schuh, P. Scholz, T. Leich & R. May. Identifying and Analyzing Data Model Requirements and Technology Potentials of Machine Learning Systems in the Manufacturing Industry of the Future, International Scientific Conference on Information Technology and Management Science (ITMS), IEEE. 2020. S. 1–10.
